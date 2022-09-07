@@ -66,6 +66,7 @@
 *******
 
 ### Projects and Dev Stuffs
+- click to Expand 👇
 
 <details>	
   <br />
