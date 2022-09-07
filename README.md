@@ -272,6 +272,8 @@ Like My Work?
 *******
 
 <a href="https://www.buymeacoffee.com/spajai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://ko-fi.com/spajai" target="_blank"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Buy Me A Coffee" height="60px" width="70px" ></a>
+
 *******
 
 [![](https://gitwar.herokuapp.com/badge?username=spajai&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
