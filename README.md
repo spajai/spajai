@@ -49,18 +49,25 @@
 
 <div align="center">
    <h1>Projects </h1>
-  
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Perl-Assignment-Solution&theme=radical"/>](https://github.com/spajai/Perl-Assignment-Solution)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Catalyst-Plugin-Session-Store-Redis-Fast&theme=radical" width="46%" height="90%"/>](https://github.com/spajai/Catalyst-Plugin-Session-Store-Redis-Fast)
+<br>
+    <div width="100%" align="center">
+    <a align="left" href="https://github.com/spajai/Ocr-OcrSpace" title="Ocr-OcrSpace"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Ocr-OcrSpace&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/spajai/Catalyst-Plugin-Session-Store-Redis-Fast" title="Catalyst Session Plugin Redis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Catalyst-Plugin-Session-Store-Redis-Fast&theme=react&border_color=61dafb&border_radius=10"></a>
+    </div>
+    <br/><br/><br/><br/><br/>
+    <div width="100%" align="center">
+    <a align="left" href="https://github.com/spajai/ocr-image-to-text" title="ocr-image-to-text"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=ocr-image-to-text&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/spajai/web-based-employee-management" title="mini  web-based-employee-management"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=web-based-employee-management&theme=react&border_color=61dafb&border_radius=10"></a>
+    </div>
+    <br/><br/><br/><br/><br/>
+    <div width="100%" align="center">
+    <a align="left" href="https://github.com/spajai/ToDo" title="Open Source API based ToDo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=ToDo&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/spajai/Perl-Assignment-Solution" title="Perl Assignment Solution"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Perl-Assignment-Solution&theme=react&border_color=61dafb&border_radius=10"></a>
+    </div>
+    <br/><br/><br/><br/><br/>
+    <h4 align="center">
+    <a href="https://github.com/spajai?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    </h4>
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=ocr-image-to-text&theme=radical" width="40%" height="90%"/>](https://github.com/spajai/ocr-image-to-text)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=web-based-employee-management&theme=radical" width="40%" height="90%"/>](https://github.com/spajai/web-based-employee-management)
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Ocr-OcrSpace&theme=radical"  width="40%" height="90%"/>](https://github.com/spajai/Ocr-OcrSpace)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=ToDo&theme=radical"/>](https://github.com/spajai/ToDo)
-
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=spajai&repo=Yahoo-Weather-Api&theme=radical"/>](https://github.com/spajai/Yahoo-Weather-Api)
 </div>
 
 *******
