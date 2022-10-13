@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sushrutpajai)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spajai.spajai&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=spajai&color=00cf00)
 
 <img align="right" height="200" width="350" alt="" src="https://raw.githubusercontent.com/spajai/ask-me-anything/master/static/coder.gif" />
 
