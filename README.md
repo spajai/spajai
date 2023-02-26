@@ -3,6 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://spajai.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sushrutpajai)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Profile Visit](https://visitcount.itsvg.in/api?id=spajai&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=spajai&color=00cf00)
 
@@ -259,7 +260,7 @@ Like My Work?
 
 *******
 
-[![](https://gitwar.herokuapp.com/badge?username=spajai&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
 
 *******
 
