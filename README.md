@@ -8,7 +8,7 @@
 
 <img align="right" height="200" width="350" alt="" src="https://raw.githubusercontent.com/spajai/ask-me-anything/master/static/coder.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=15&duration=1500&pause=200&multiline=true&width=470&height=200&lines=I'm+a+Computer+Science+%F0%9F%8E%93+graduate+and+Tech+geek.+%E2%9C%94%EF%B8%8F;A+hardcore+passionate+Software+Developer+by+profession.+%E2%9C%94%EF%B8%8F;Who+loves+to+solve+problems+by+code.+%E2%9C%94%EF%B8%8F;A+keen%2Cpassionate+and+quick+learner+%26+eager+to+learn+always.%E2%9C%94%EF%B8%8F;Building+Highly+scalable+Microservices.%E2%9C%94%EF%B8%8F;Helping+Business+scale+up+on+Technical+horizon.+%E2%9C%94%EF%B8%8F;For+bread+and+butter+%F0%9F%A4%93.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=15&duration=1500&pause=200&multiline=true&width=470&height=200&lines=I'm+a+Computer+Science+%F0%9F%8E%93+graduate+and+Tech+geek.+%E2%9C%94%EF%B8%8F;A+Passionate+Software+Developer+by+profession.+%E2%9C%94%EF%B8%8F;Who+loves+to+solve+problems+by+code.+%E2%9C%94%EF%B8%8F;A+keen%2Cpassionate+and+quick+learner+%26+eager+to+learn+always.%E2%9C%94%EF%B8%8F;Building+Highly+scalable+Microservices.%E2%9C%94%EF%B8%8F;Helping+Business+scale+up+on+Technical+horizon.+%E2%9C%94%EF%B8%8F;For+bread+and+butter+%F0%9F%A4%93.)](https://git.io/typing-svg)
 
 *******
 
